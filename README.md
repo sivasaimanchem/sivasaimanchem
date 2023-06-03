@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
-- 💬 Ask me about **DSA | java | Frontend Development**
+- 💬 Ask me about **Java | DSA | Frontend Development**
 
 - 📫 How to reach me **manchemsivasai0516@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sivasai manchem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivasai manchem" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sivasai manchem](https://www.linkedin.com/in/siva-sai-manchem-40b87a257/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivasai manchem" height="30" width="40" /></a>
 <a href="https://instagram.com/preetham_37c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preetham_37c" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siva_sai_manchem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siva_sai_manchem" height="30" width="40" /></a>
 </p>
