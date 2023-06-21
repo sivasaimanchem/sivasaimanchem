@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **manchemsivasai0516@gmail.com**
 
-- 📄 Know about my experiences [xyz](xyz)
+<!--- 📄 Know about my experiences [xyz](xyz)-->
 
 
 <h3 align="left">Connect with me:</h3>
