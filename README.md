@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js & Node.js**
 
-- 🔭 I’m currently working on **music player**
+- 🔭 I’m currently working on **GoShopping (E-Commerce website)**
 
 - 👨‍💻 All of my projects are available at [https://sivasaimanchem.github.io/Portfolio/](https://sivasaimanchem.github.io/Portfolio/)
 
